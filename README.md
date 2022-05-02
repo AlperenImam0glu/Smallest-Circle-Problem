@@ -12,6 +12,6 @@ Tüm noktalardan geçen bir spline çizer.
 
 ## Ekran Görüntüleri
 
-![Ekran Görüntüsü (1100)](https://user-images.githubusercontent.com/86842336/166262295-4a338a8d-83d9-4c4a-8612-2bff69ed1d09.png)
+![Ekran Görüntüsü (1099)](https://user-images.githubusercontent.com/86842336/166262525-eb331b1d-6ddf-4fa3-aef9-dbffc6250fb7.png)
 
 ![Ekran Görüntüsü (1100)](https://user-images.githubusercontent.com/86842336/166262295-4a338a8d-83d9-4c4a-8612-2bff69ed1d09.png)
